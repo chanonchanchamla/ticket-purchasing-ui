@@ -1,10 +1,13 @@
 ## Project setup
 ```
 Require Node.JS (LTS)
+
+Run command in cmd, bash
+
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run project
 ```
 npm run serve
 ```
